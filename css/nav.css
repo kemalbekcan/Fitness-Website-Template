@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.navbar .menu .menu-item{
+    text-decoration: none;
+}
+.navbar .menu .menu-item .menu-list .menu-item{
+    padding: 20px;
+    color: white;
+}
+
+.navbar .menu .menu-item .menu-list .menu-item:hover{
+    text-decoration: underline;
+}
+
+.navbar .logo .logo-header{
+    font-size: 18px;
+}

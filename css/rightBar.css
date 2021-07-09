@@ -1,0 +1,56 @@
+.right-bar .right-description .model{
+    position: absolute;
+    margin-left: -79px;
+    margin-top: -165px;
+    background-image: url('../img/image\ 1.png');
+    background-repeat: no-repeat;
+    width: 700px;
+    height: 1000px;
+    z-index: -1;
+}
+
+.right-bar .right-description .tip .time{
+    position: absolute;
+    right: 0px;
+    top: 200px;
+}
+.right-bar .right-description .tip .second{
+    background-color: #4d4d4d;;
+    padding: 30px 50px;
+    border-radius: 20px;
+}
+.right-bar .right-description .tip .second .time-yellow{
+    color: #FFE642;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 40px;
+
+    /* identical to box height, or 100% */
+    letter-spacing: 1px;
+}
+.right-bar .right-description .tip .calories{
+    position: absolute;
+    right: 0px;
+    top: 350px;
+    
+}
+.right-bar .right-description .tip .calories .count-caloires{
+    background-color: #4d4d4d;;
+    padding: 30px 50px;
+    border-radius: 20px;
+}
+
+.right-bar .right-description .tip .calories .count-caloires .colories-pink{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 40px;
+
+    /* identical to box height, or 100% */
+    letter-spacing: 1px;
+
+    color: #FB1351;
+}
